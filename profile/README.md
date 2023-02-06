@@ -1,4 +1,5 @@
-# Armageddon Server
-
-- [Wiki](https://wiki.armamc.com)
-- [Loja](https://loja.armamc.com)
+<p align="center">
+  <a href="https://armamc.com">
+    <img src="https://i.imgur.com/vkTn4MH.png" />
+  </a>
+</p>
